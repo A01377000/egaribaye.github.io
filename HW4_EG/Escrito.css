@@ -1,0 +1,19 @@
+
+html {
+    #header{
+        width: 1000px; height: 100px;}
+    #cuerpo{
+        width: 1000px; height: 900px;}
+    #footer{
+        width: 1000px; height: 100px; position: fixed; bottom: auto} 
+}
+#cuerpo-left{
+    width: 500px; height: 250px; float: left;background-color: cadetblue}
+#cuerpo-right{
+    width: 500px; height: 520px; float: right; background-color:cornflowerblue}
+#cuerpo-left2{
+    width: 500px; height: 300px; float: left;background-color: dodgerblue}
+#cuerpo-right2{
+    width: 850px; height: 300px; float:none; align-content: left;}
+#cuerpo-5{
+    width: 500px; height: 300px; float:right; align-content: right; background-color: skyblue}
